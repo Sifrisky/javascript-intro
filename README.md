@@ -30,9 +30,7 @@ En este proyecto podras aprender y conocer las expresiones y buenas practicas de
 04. Estilo.
 
 
-Te gusto?
-
-plis, compartelo y no copies! Fork this repo. Thanks!! :)
+Te gusto? hazme un comment plis and Thanks!! :)
 
 
 ⌨️ con ❤️ por Sifrisky 😊
